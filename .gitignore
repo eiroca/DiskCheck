@@ -6,5 +6,5 @@ tags
 *.pdb
 *.html
 *.suo
-/CiSolution.userprefs
+/*.userprefs
 .vs/*
