@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskCheck", "DiskCheck\DiskCheck.csproj", "{1692322D-5125-42C1-B89B-8DAFFD285674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1692322D-5125-42C1-B89B-8DAFFD285674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1692322D-5125-42C1-B89B-8DAFFD285674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1692322D-5125-42C1-B89B-8DAFFD285674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1692322D-5125-42C1-B89B-8DAFFD285674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

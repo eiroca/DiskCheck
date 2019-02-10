@@ -1,0 +1,10 @@
+bin
+obj
+tags
+*.exe
+*.exe.mdb
+*.pdb
+*.html
+*.suo
+/CiSolution.userprefs
+.vs/*
